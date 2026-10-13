@@ -99,7 +99,7 @@ The dashboard includes synchronized Year and Region slicers, consistent navigati
 
 ## Project Files
 
-- `01_Data_Profiling_Validation.sql` – Data profiling, validation, and quality checks
+- `01_Data_Validation.sql` – Data profiling, validation, and quality checks
 - `02_Data_Cleaning.sql` – Data cleaning and schema corrections
 - `03_Exploratory_Data_Analysis.sql` – Business-focused exploratory analysis
 - `Sales_Profitability_Dashboard.pbix` – Interactive Power BI dashboard
