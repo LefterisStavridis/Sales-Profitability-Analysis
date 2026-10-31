@@ -14,51 +14,40 @@ Power BI
 
 Excel
 
-🧹 Data Preparation
+## 🛠️ Tools
 
-Validated row counts, dates, nulls, duplicates, and derived fields
+- SQL Server / SSMS
+- Power BI
+- Excel
 
-Corrected Customer ID casing
+## 🧹 Data Preparation
 
-Removed trailing spaces from Product Names
+- Validated row counts, dates, nulls, duplicates, and derived fields
+- Corrected Customer ID casing
+- Removed trailing spaces from Product Names
+- Converted Postal Code to text
+- Verified Shipping Days, Year, Month, and Profit Margin fields
 
-Converted Postal Code to text
+## 🔎 Key Insights
 
-Verified Shipping Days, Year, Month, and Profit Margin fields
+- 📈 Sales peaked in **2017**
+- 🪑 Furniture was the weakest category
+- 📉 Tables and Bookcases generated losses
+- 💸 Discounts of **30%+** were associated with aggregate losses
+- 📍 Central had the lowest regional profit margin
+- ⚠️ Texas and Illinois concentrated much of the regional loss
+- 👤 High sales did not always mean high profitability
+- 🚨 Sean Miller generated high sales but an overall loss
+- 🔻 Cindy Stewart was the largest loss-making customer
 
-🔎 Key Insights
+## 💡 Recommendations
 
-📈 Sales peaked in 2017
-
-🪑 Furniture was the weakest category
-
-📉 Tables and Bookcases generated losses
-
-💸 Discounts of 30%+ were associated with aggregate losses
-
-📍 Central had the lowest regional profit margin
-
-⚠️ Texas and Illinois concentrated much of the regional loss
-
-👤 High sales did not always mean high profitability
-
-🚨 Sean Miller generated high sales but an overall loss
-
-🔻 Cindy Stewart was the largest loss-making customer
-
-💡 Recommendations
-
-Review discounts of 30% and above
-
-Reassess pricing for Tables and Bookcases
-
-Investigate profitability in Texas and Illinois
-
-Monitor profit alongside sales for key customers
-
-Review high-revenue but loss-making customer accounts
-
-Continue tracking shipping efficiency, but avoid major changes based on shipping mode alone
+- Review discounts of **30% and above**
+- Reassess pricing for **Tables and Bookcases**
+- Investigate profitability in **Texas and Illinois**
+- Monitor profit alongside sales for key customers
+- Review high-revenue but loss-making customer accounts
+- Continue tracking shipping efficiency, but avoid major changes based on shipping mode alone
 
 📊 Dashboard Preview
 
