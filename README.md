@@ -88,16 +88,13 @@ Focuses on top customers, customer segments, and shipping performance.
 
 📁 Project Files
 
-01_Data_Validation.sql
+[01_Data_Validation.sql](./01_Data_Validation.sql)
 
-02_Data_Cleaning.sql
+[02_Data_Cleaning.sql](./02_Data_Cleaning.sql)
 
-03_Exploratory_Data_Analysis.sql
+[03_Exploratory_Data_Analysis.sql](./03_Exploratory_Data_Analysis.sql)
 
-Sales_Profitability_Dashboard.pbix
+[Sales_Profitability_Dashboard.pbix](./Sales_Profitability_Dashboard.pbix)
 
-images/
+[images/](./images)
 
-⚠️ Note
-
-The analysis identifies patterns and associations in historical sales data and should not be interpreted as causal evidence.
