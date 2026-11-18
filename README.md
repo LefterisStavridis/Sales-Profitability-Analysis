@@ -6,14 +6,6 @@ SQL Server + Power BI project focused on sales performance, profitability driver
 
 Identify the main factors associated with profitability and highlight opportunities to improve margins across products, customers, regions, and discount levels.
 
-🛠️ Tools
-
-SQL Server / SSMS
-
-Power BI
-
-Excel
-
 ## 🛠️ Tools
 
 - SQL Server / SSMS
